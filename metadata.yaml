@@ -1,10 +1,16 @@
 _repo: Ten-Years-in-India-Ten-Years-in-India-in-the-16th-Queen-s-Lancers-and-Three-Years-in-South-Af__46823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46823-h/images/cover.jpg
 creator:
   author:
     agent_name: Gould, W.J.D.
     gutenberg_agent_id: '43973'
     url: http://www.gutenberg.org/2009/agents/43973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46823#Ten-Years-in-India-Ten-Years-in-India-in-the-16th-Queen-s-Lancers-and-Three-Years-in-South-Af_
 gutenberg_issued: '2014-09-09'
 gutenberg_type: Text
 identifiers:
